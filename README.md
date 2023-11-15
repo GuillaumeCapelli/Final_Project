@@ -1,4 +1,4 @@
-#Analysis of Toxic Comments on Social Media Platforms
+Analysis of Toxic Comments on Social Media Platforms
 Project Overview
 
 Author: Guillaume Capelli
